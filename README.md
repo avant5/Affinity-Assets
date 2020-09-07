@@ -5,6 +5,8 @@ https://affinity.serif.com/en-us/
 
 ### Font Awesome 4.7 Assets for Designer ###
 
-All of the FontAwesome 4.7 fonts to faster mockups in Affinity Designer.  All fonts organized into the original cheatsheet groupings, as well as some custom groupings.  See the FontAwesome website for more information, for the font files and instructions for usage in web applications.
+All of the FontAwesome 4.7 fonts to faster mockups in Affinity Designer.  All fonts organized into the original cheatsheet groupings, as well as some custom groupings.  See the FontAwesome website for more information, for the font files and instructions for usage in web applications.  
 
-https://fontawesome.com/v4.7.0/
+https://fontawesome.com/v4.7.0/  
+
+Icons are saved as fully black, using the FontAwesome4.7 font at a size of 60 pt.  All icons are converted into vector shapes (curves) for the assets, and so do not require the FontAwesome4.7 font to be installed for use in Affinity Designer.
